@@ -6,6 +6,8 @@
 
 My name is Adriano Fantinelli, I am 17 years old and I work with Quality Assurance at CWI Software in Brazil.
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=adriano-fantinelli&show_icons=true&hide=[%22prs%22,%22issues%22])
+
 Follow me: 
 
 [![Medium](https://badgen.net/badge/Medium/%40adriano.fantinelli?icon=medium)](https://medium.com/@adriano.fantinelli) [![Linkedin](https://badgen.net/badge/Linkedin/adrianofantinelli/blue)](https://www.linkedin.com/in/adriano-fantinelli-531b49182/)
