@@ -4,7 +4,7 @@
 **adriano-fantinelli/adriano-fantinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
 
-My name is Adriano Fantinelli, I work with Quality Assurance at CWI Software in Brazil.
+My name is Adriano Fantinelli, I'm a Senior QA Engineer at News Corp through X-Team.
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=adriano-fantinelli&show_icons=true&hide=[%22prs%22,%22issues%22])
 
