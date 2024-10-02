@@ -1,11 +1,41 @@
-### Hi there 👋
+# Hey, great to see you!
 
-<!--
-**adriano-fantinelli/adriano-fantinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
--->
+## About Me
 
-My name is Adriano Fantinelli, I'm a Senior QA Engineer at News Corp through X-Team.
+<p align="justify"> Software Engineer | Mastery in QA/QC and Test automation. </p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=adriano-fantinelli&show_icons=true&hide=[%22prs%22,%22issues%22])
+<p align="justify"> Proficient in manual testing, test automation, functional and non-functional tests. Passionate about test automation, certified as Tester Foundation Level (CTFL), Tester Advanced Level - Test Manager (CTAL-TM), Theory and Tools of the Harvard Negotiation Project and Agile Methodologies from the LinkedIn Skill Assessment. </p>
 
-[![Medium](https://badgen.net/badge/Medium/%40adriano.fantinelli?icon=medium)](https://medium.com/@adriano.fantinelli) [![Linkedin](https://badgen.net/badge/Linkedin/adrianofantinelli/blue)](https://www.linkedin.com/in/adriano-fantinelli-531b49182/)
+## Frameworks I'm good at:
+
+Playwright, Cypress, Selenium, REST Assured, Maven, JSON, XML, Cucumber, Postman, JMeter, K6, Testmo, Mocha, Jest, Swagger, Jira, Zephyr Scale, Robot Framework, Java Spring and Git.
+
+## Languages I'm good at:
+
+- JavaScript.
+- TypeScript.
+- Java.
+- SQL.
+- Gherkin.
+- Python.
+
+## Languages/Frameworks I'm learning:
+
+- AI/ML with Python.
+
+## Environments I work with:
+
+- CI/CD: GitHub Actions, GitLab CI/CD, Jenkins and Azure DevOps.
+- Databases: MySQL, and MongoDB.
+- Microservices, Rest API.
+- Methodologies: TDD, BDD, Scrum and Kanban (Agile methodology).
+
+## Get in touch
+
+- E-mail: fantinelli.adri@gmail.com
+- LinkedIn: https://www.linkedin.com/in/adriano-fantinelli
+
+## Sharing knowledge
+
+- The Developer's Conference (December 2023) - Technical Lecture Coordinator disseminating the culture of software quality combined with development.
+- The Developer's Conference (December 2022) - Lecture talking about credentials in test automation repositories, how can we avoid?
