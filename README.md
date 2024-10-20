@@ -37,5 +37,6 @@ Playwright, Cypress, Selenium, REST Assured, Maven, JSON, XML, Cucumber, Postman
 
 ## Sharing knowledge
 
+- [How can AI be leveraged to enhance Quality Assurance and Quality Control processes? (October 2024)](https://medium.com/@adriano.fantinelli/how-can-ai-be-leveraged-to-enhance-quality-assurance-and-quality-control-processes-1b9d20180436)
 - The Developer's Conference (December 2023) - Technical Lecture Coordinator disseminating the culture of software quality combined with development.
 - The Developer's Conference (December 2022) - Lecture talking about credentials in test automation repositories, how can we avoid?
